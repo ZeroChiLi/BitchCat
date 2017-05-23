@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bitchcat.MainActivity" >
+
+    <item
+        android:id="@+id/add_bitch"
+        android:icon="@android:drawable/ic_input_add"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:title="@string/add_bitch"/>
+
+</menu>

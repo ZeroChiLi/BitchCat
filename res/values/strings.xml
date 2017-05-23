@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BitchCat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart">重来</string>
+    <string name="bestscore">BestScore : </string>
+    <string name="score">0</string>
+    <string name="lowestscore">LowestScore : </string>
+    <string name="add_bitch">双婊模式</string>
+    <string name="bombMode">爆炸模式</string>
+
+</resources>
